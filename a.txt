@@ -1,4 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+hellow world
+hellow java
+>>>>>>> rev
 this is a new branck and simple;
 =======
 this is a new branck and simple;
