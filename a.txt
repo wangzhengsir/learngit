@@ -1,1 +1,5 @@
-this is a new branck & simple;
+<<<<<<< HEAD
+this is a new branck and simple;
+=======
+this is a new branck and simple;
+>>>>>>> rev
